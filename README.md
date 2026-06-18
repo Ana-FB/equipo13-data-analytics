@@ -23,17 +23,6 @@ Construir un dashboard analítico que permita visualizar el uso, navegación, pr
 └── notebooks/        # Scripts y notebooks de análisis exploratorio
 ```
 
-## 📊 Estado del MVP
-
-- ✅ Definidos los 5 eventos clave a trackear (SESSION_START, ACCESSIBILITY_CHANGED, TTS_INTERACTION, AI_COGNITIVE_REQUEST, TASK_COMPLETED)
-- ✅ Validada estructura de datos con backend (6 entidades: Users, Sessions, EventLog, MoodleCourseCache, AiCache, UserProgress)
-- 🔄 En definición: herramienta de tracking (Firebase/Firestore) y herramienta de visualización del dashboard
-- 🔄 En construcción: dataset sintético para pruebas
-
-## 📌 Importante: política de datos
-
-No se inventan datos. Toda la información se basa en documentación oficial provista por el equipo de backend o se marca explícitamente como **dato sintético / de prueba**.
-
 ## 🔗 Recursos
 
 - Tablero de tareas (ClickUp): [Equipo 13 - Tareas del equipo](https://app.clickup.com/9018785435/v/l/li/901714369288)
