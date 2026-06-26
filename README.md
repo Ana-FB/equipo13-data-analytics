@@ -6,7 +6,7 @@ Repositorio del equipo de Data Analytics del proyecto **MVP de accesibilidad** (
 
 Construir un dashboard analítico que permita visualizar el uso, navegación, progreso y accesibilidad de los usuarios de la herramienta, basado en la telemetría capturada por el backend (EventLog, Sessions, UserProgress, etc.).
 
-**Demo Day:** 30 de agosto de 2026.
+**Demo Day:** 7 de agosto de 2026.
 
 ## 👥 Equipo
 
