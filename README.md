@@ -16,11 +16,7 @@ Construir un dashboard analítico que permita visualizar el uso, navegación, pr
 ## 📁 Estructura del repositorio
 
 ```
-.
-├── docs/           # Documentación: arquitectura del backend, esquema de datos, eventos a trackear, decisiones técnicas
-├── datasets/        # Datasets sintéticos para pruebas del dashboard (no hay datos reales para Demo Day)
-├── dashboard/        # Queries, exports y configuración del dashboard (Looker Studio / herramienta a definir)
-└── notebooks/        # Scripts y notebooks de análisis exploratorio
+
 ```
 
 ## 🔗 Recursos
