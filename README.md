@@ -34,7 +34,7 @@ Construir un dashboard analítico que permita visualizar el uso, navegación, pr
 ## 🔗 Recursos
 
 - Tablero de tareas (ClickUp): [Equipo 13 - Tareas del equipo](https://app.clickup.com/9018785435/v/l/li/901714369288)
-- Documentación del modelo de datos: ver carpeta [`docs/data-model/`](docs/data-model/)
+- Documentación del modelo de datos: ver carpeta [`docs/data-model/`](docs)
 
 ## 🗓️ Reuniones
 
