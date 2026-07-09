@@ -1,4 +1,4 @@
-# Equipo 13 - Data Analytics | Innova Lab
+# Data Analytics | Innova Lab
 
 Repositorio del equipo de Data Analytics del proyecto **MVP de accesibilidad** (LTI 1.3 + Moodle API), desarrollado en el marco del programa **Innova Lab**.
 
@@ -8,7 +8,7 @@ Construir un dashboard analítico que permita visualizar el uso, navegación, pr
 
 **Demo Day:** 7 de agosto de 2026.
 
-## 👥 Equipo
+## 👥 Equipo 13 
 
 - **Ana Ferreira** - Team Lead, Data Analytics
 - **Aldana** - Data Analytics
