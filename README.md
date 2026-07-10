@@ -15,15 +15,22 @@ Construir un dashboard analítico que permita visualizar el uso, navegación, pr
 
 ## 📁 Estructura del repositorio
 
-    equipo13-data-analytics/
-    └── docs/
-        └── data-model/
-            ├── innova-lab-ddl-corregido.sql
-            ├── innova-lab-mapeo-modelo-transaccional-vs-estrella.md
-            ├── innova-lab-campos-calculados.md
-            ├── diagrama-modelo-transaccional.svg
-            └── diagrama-modelo-estrella-mvp.png
-
+equipo13-data-analytics/
+└── docs/
+    ├── data-model/
+    │   ├── innova-lab-ddl-corregido.sql
+    │   ├── innova-lab-mapeo-modelo-transaccional-vs-estrella.md
+    │   ├── innova-lab-campos-calculados.md
+    │   ├── Schema.png
+    │   ├── diagrama.png
+    │          
+    ├── metricas/
+    │   └── innova-lab-kpis-metricas.md             
+    │
+    └── visualizacion/
+        ├── Dashboard Accesibilidad Wireframe.pdf
+        └── Dashboard Visual.png
+        
 ## 🛠️ Stack
 
 - **Fuente de datos (MVP):** dataset sintético `innovalab_eventos_v3.csv`
