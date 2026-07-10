@@ -51,23 +51,6 @@ Wireframes y capturas del dashboard.
 | `Dashboard Visual.png` | Vista del dashboard en Looker Studio |
 
 ---
-
-## 🛠️ Stack técnico
-
-- **Backend:** Node.js · MongoDB · LTI 1.3 (ltijs)
-- **Pipeline:** PostgreSQL → BigQuery → Looker Studio
-- **Dataset sintético:** `innovalab_eventos_v3.csv` (5.327 filas · 28 columnas · 8 event types)
-- **IA:** Claude Haiku 4.5 (Anthropic) — resumen, simplificación y conceptos clave
-
----
-
-## 👥 Equipo
-
-| Rol | Integrante |
-|---|---|
-| Data Analytics Lead | Ana Ferreira |
-| Backend | Leandro |
-| Data Analytics | Aldana |
         
 ## 🛠️ Stack
 
