@@ -22,10 +22,10 @@ equipo13-data-analytics/
     │   ├── innova-lab-mapeo-modelo-transaccional-vs-estrella.md
     │   ├── innova-lab-campos-calculados.md
     │   ├── Schema.png
-    │   ├── diagrama.png
-    │          
+    │   └── diagrama.png
+    │
     ├── metricas/
-    │   └── innova-lab-kpis-metricas.md             
+    │   └── innova-lab-kpis-metricas.md
     │
     └── visualizacion/
         ├── Dashboard Accesibilidad Wireframe.pdf
