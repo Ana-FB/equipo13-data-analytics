@@ -61,7 +61,7 @@ Wireframes y capturas del dashboard.
 
 ## 🔗 Recursos
 
-- Tablero de tareas (ClickUp): [Equipo 13 - Tareas del equipo]([https://app.clickup.com/9018785435/v/l/li/901714369288](https://sharing.clickup.com/90171301986/b/h/6-901714369288-2/44905abe3561fe2))
+- Tablero de tareas (ClickUp): [Equipo 13 - Tareas del equipo](https://sharing.clickup.com/90171301986/b/h/6-901714369288-2/44905abe3561fe2)
 - Documentación del modelo de datos: ver carpeta [`docs/data-model/`](docs)
 
 ## 🗓️ Reuniones
